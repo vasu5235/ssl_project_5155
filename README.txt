@@ -1,16 +1,16 @@
-Report/Summary is included in 2_Report_300250384.pdf
+Report/Summary is included in Project_report.pdf
 
 Description of notebooks: 
 
-1. 2_Q1-3Online_Shopping: Contains the 6 algorithms cross validation with paired t-test results
+1. Project_1_Online_Shopping.ipynb: Contains our experiments on 6 data-splits (10, 20, 50, 90 & 95%) on the Online Shopping intention dataset with balanced & imbalance data
 
-2. 2_4aTeenhomeFeatureEngg: Feature engineering on the Customer Segmentation data
-3. 2_4aTeenhomePredictions: 6 algorithms ran on processed dataset with 10 fold cross validation
+2. Project_2_UCIHeart.ipynb: Contains our experiments on 6 data-splits (10, 20, 50, 90 & 95%) on the UCI Heart dataset with balanced & imbalance data
 
-4. 2_4bHeartFeatureEngg: Feature engineering on the UCI Heart dataset
-5. 2_4bHeartPredictions: 6 algorithms ran on processed dataset with 10 fold cross validation
+3. Project_3_Teenhome.ipynb: Contains our experiments on 6 data-splits (10, 20, 50, 90 & 95%) on the Teenhome - Marketing Predictions dataset with balanced & imbalance data
 
-6. 2_5FriedmanNemenyi: Friedman test ran on f1 and accuracy evaluation metric with Nemenyi diagram
+4. Project_Statistical_Analysis.ipynb: Friedman tests ran on f1 scores with Nemenyi diagram on balanced and imbalanced datasets.
 
-7. Requirements.py contains all the necessary import statements
+5. Project_Experiments_Unsupervised_pretraining.ipynb: Contains our experiments on Unsupervised pretraining methods specifically RBM (Restricted Boltzmann Machine) and Autoencoders. 
+
+6. requirements.py: Contains frequently used import statements
 
